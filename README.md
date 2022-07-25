@@ -1,6 +1,5 @@
 # Ms. Boland's CS Portfolio
 
-## Intro
 ###### Hi y'all!!! Below is information about the CS courses I have taken so far, as well as, some sample work from each.  I also included links to various resources I think are helpful.  Feel free to peruse at your leisure.
 
 ## CS Classes
