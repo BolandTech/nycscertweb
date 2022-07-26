@@ -9,7 +9,7 @@
    <img width="455" alt="Programming Image" src="https://user-images.githubusercontent.com/85142599/181115455-8f60e1a6-dea4-4dfc-a2b3-f41c95e796b7.png">
 
   
-    - [Game of Life](https://github.com/hunter-teacher-cert/cohort-3-summer-work-BolandTech/blob/master/programming/3/ArraysDay2_GameOfLife/CgolFinal.java) 
+    - [Sample Work - Game of Life](https://github.com/hunter-teacher-cert/cohort-3-summer-work-BolandTech/blob/master/programming/3/ArraysDay2_GameOfLife/CgolFinal.java) 
     
 
 2. CSCI 70300 - Data Structures
