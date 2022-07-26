@@ -19,7 +19,7 @@
    <img width="611" alt="Data Structures 2" src="https://user-images.githubusercontent.com/85142599/181116894-2b1598dd-e3c9-4085-96df-53edc86f4432.png">
 
   
-    - Sample work 
+    - [Sample work - Arrays List](https://github.com/hunter-teacher-cert/cohort-3-summer-work-BolandTech/blob/master/ds/arraylists/AlPractice.java) 
  
          
 3. SEDC 71900 - Methods 1
