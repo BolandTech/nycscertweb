@@ -1,10 +1,10 @@
 # Ms. Boland's CS Portfolio
 
-###### Hi y'all!!! Below is information about the CS courses I have taken so far, as well as, some sample work from each.  I also included links to various resources I think are helpful.  Feel free to peruse at your leisure.
+Hi y'all!!! Below is information about the CS courses I have taken so far, as well as, some sample work from each.  I also included links to various resources I think are helpful.  Feel free to peruse at your leisure.
 
 ## CS Classes
 
-1. CSCI 70900 - Programming in a high level language
+### CSCI 70900 - Programming in a high level language
 
    <img width="455" alt="Programming Image" src="https://user-images.githubusercontent.com/85142599/181115455-8f60e1a6-dea4-4dfc-a2b3-f41c95e796b7.png">
 
@@ -12,7 +12,7 @@
     - [Sample Work - Game of Life](https://github.com/hunter-teacher-cert/cohort-3-summer-work-BolandTech/blob/master/programming/3/ArraysDay2_GameOfLife/CgolFinal.java) 
     
 
-2. CSCI 70300 - Data Structures
+### CSCI 70300 - Data Structures
 
    <img width="750" alt="Data Structures 1" src="https://user-images.githubusercontent.com/85142599/181116823-f2bf44e0-8675-41ad-9fe7-92b7df6ed0f6.png">
    
@@ -22,7 +22,7 @@
     - [Sample work - Al Practice](https://github.com/hunter-teacher-cert/cohort-3-summer-work-BolandTech/blob/master/ds/arraylists/AlPractice.java) 
  
          
-3. SEDC 71900 - Methods 1
+### SEDC 71900 - Methods 1
 
    - Image
   
