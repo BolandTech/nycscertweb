@@ -8,7 +8,7 @@
 
    - Image
   
-    - Sample work 
+    - [Game of Life](https://github.com/hunter-teacher-cert/cohort-3-summer-work-BolandTech/blob/master/programming/3/ArraysDay2_GameOfLife/CgolFinal.java) 
     
 
 2. CSCI 70300 - Data Structures
