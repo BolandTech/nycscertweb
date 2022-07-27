@@ -78,12 +78,14 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 
 [Upperline Code Lessons](https://teacherhub.upperlinecode.com/app/teach)
 
+[BJC](https://bjc.berkeley.edu)
+
+[Code.org](https://code.org)
+
 
 
 
 #### CS Teacher References
-
-[BJC](https://bjc.berkeley.edu)
 
 [Upperline Resources](https://teacherhub.upperlinecode.com/app/learn)
 
@@ -93,9 +95,11 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 
 
 
-#### Teaching Practices
+#### Teaching Toolbox
 
 [Modern Classrooms](https://www.modernclassrooms.org/free-course)
+
+[Peblio](http://www.peblio.co)
 
 
 
