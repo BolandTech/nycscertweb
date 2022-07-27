@@ -23,7 +23,7 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
   
    [Sample work - Al Practice](https://github.com/hunter-teacher-cert/cohort-3-summer-work-BolandTech/blob/master/ds/arraylists/AlPractice.java) 
    
-<!--    For more information about this course [click here](Methods.md) -->
+   For more information about this course [click here](Data_Structures.md)
  
          
 ### SEDC 71900 - Methods 1
