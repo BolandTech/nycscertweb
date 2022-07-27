@@ -33,4 +33,4 @@ SEDC 71900 - Methods 1
 
 [Methds 1 Repo](https://github.com/hunter-teacher-cert/sedc71900-summer-2022)
 
-[Programming Repo Cohort 2](https://github.com/hunter-teacher-cert/csci70900-summer2021)
+[Programming Throwback Repo](https://github.com/hunter-teacher-cert/csci70900-summer2021)
