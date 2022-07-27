@@ -28,6 +28,8 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
   
  [Sample work - Live Code Lesson](https://github.com/hunter-teacher-cert/cohort-3-summer-work-BolandTech/blob/master/methods/LessonPlans/02_livecode_java.js)
  
+ For more information about this course [click here]
+ 
     
 
 ## Helpful Resources
