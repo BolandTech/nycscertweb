@@ -76,7 +76,7 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 
 #### CS Curriculum Reference
 
-[Upperline Code Lessons]([https://teacherhub.upperlinecode.com/app/learn](https://teacherhub.upperlinecode.com/app/teach)
+[Upperline Code Lessons](https://teacherhub.upperlinecode.com/app/teach)
 
 
 
