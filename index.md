@@ -46,6 +46,16 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 
 
 
+#### Repl.it
+
+[Replit Templates](https://replit.com/templates)
+
+[Replit Learn](https://replit.com/learn)
+
+[Replit Curriculum](https://replit.com/curriculum)
+
+
+
 #### Markdown 
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
