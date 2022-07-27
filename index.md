@@ -85,6 +85,8 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 
 [Taylor Grant-Knight Intro CS Curriculum](https://drive.google.com/drive/folders/1z3yqAdSo-A14_3F5RXHwcvMGnPecwbMc)
 
+[CSAwesome](https://runestone.academy/ns/books/published//csawesome/index.html)
+
 
 
 #### CS Teacher References
@@ -120,7 +122,6 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 [Java cheatsheet (Princeton)](https://introcs.cs.princeton.edu/java/11cheatsheet/)
 
 [Java cheatsheet (Codecademy)](https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world/cheatsheet)
-
 
 
 
