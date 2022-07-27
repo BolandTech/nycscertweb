@@ -81,6 +81,10 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 
 [Code.org](https://code.org)
 
+[CodeHS](https://codehs.com)
+
+[Taylor Grant-Knight Intro CS Curriculum](https://drive.google.com/drive/folders/1z3yqAdSo-A14_3F5RXHwcvMGnPecwbMc)
+
 
 
 #### CS Teacher References
