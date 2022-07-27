@@ -1,28 +1,23 @@
-# Ms. Boland's CS Portfolio
+# nycscertweb
 
-###### Hi y'all!!! Below is information about the CS courses I have taken so far, as well as, some sample work from each.  I also included links to various resources I think are helpful.  Feel free to peruse at your leisure.
+## Intro
+Welcome to my Hunter CS Portfolio!!!
 
-## CS Classes
+## GitHub Website
 
-1. CSCI 70900 - Programming in a high level language
+[Portfolio Website](https://bolandtech.github.io/nycscertweb/)
 
-   - Image
-  
-    - Sample work 
-    
 
-2. CSCI 70300 - Data Structures
+## Summer 2022 Courses
 
-   - Image
-  
-    - Sample work 
+CSCI 70900 - Programming in a high level language
+
+   
+CSCI 70300 - Data Structures
  
          
-3. SEDC 71900 - Methods 1
+SEDC 71900 - Methods 1
 
-   - Image
-  
-    - Sample work 
     
 
-## Helpful Resources
+## Resources
