@@ -70,6 +70,43 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 
 [HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
+[Bootstrap](https://getbootstrap.com)
+
+
+
+#### CS Curriculum Reference
+
+[Upperline Code Lessons]([https://teacherhub.upperlinecode.com/app/learn](https://teacherhub.upperlinecode.com/app/teach)
+
+
+
+
+#### CS Teacher References
+
+[BJC](https://bjc.berkeley.edu)
+
+[Upperline Resources](https://teacherhub.upperlinecode.com/app/learn)
+
+[Code.org](https://code.org)
+
+[W3School](https://www.w3schools.com/jsref/jsref_sort.asp)
+
+
+
+#### Teaching Practices
+
+[Modern Classrooms](https://www.modernclassrooms.org/free-course)
+
+
+
+#### IDE Platforms
+
+[Replit](https://replit.com)
+
+[Glitch](https://glitch.com)
+
+[p5 Editor](https://editor.p5js.org/lboland/sketches/BYvtX6_U8)
+
 
 
 #### Work Samples
