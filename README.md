@@ -1,4 +1,4 @@
-# nycscertweb
+# nycscertweb_BolandTech 
 
 ## Intro
 Welcome to my Hunter CS Portfolio!!!
