@@ -24,7 +24,7 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
          
 ### SEDC 71900 - Methods 1
 
-<!--   ![Methods Image](https://user-images.githubusercontent.com/85142599/181119851-434e0f23-b44d-4cb7-8cda-7870be7fb803.jpg) -->
+<img width="406" alt="Methods 1" src="https://user-images.githubusercontent.com/85142599/181138719-c1451a3a-139b-411a-8fe5-c09c6ea4c50d.png">
   
  [Sample work - Live Code Lesson](https://github.com/hunter-teacher-cert/cohort-3-summer-work-BolandTech/blob/master/methods/LessonPlans/02_livecode_java.js)
  
