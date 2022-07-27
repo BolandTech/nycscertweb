@@ -46,6 +46,10 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 
 [Giub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Markdown Reference](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 
 
 #### Repl.it
@@ -56,13 +60,6 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 
 [Replit Curriculum](https://replit.com/curriculum)
 
-
-
-#### Markdown 
-
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-[Markdown Reference](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
 
@@ -83,7 +80,6 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 [BJC](https://bjc.berkeley.edu)
 
 [Code.org](https://code.org)
-
 
 
 
