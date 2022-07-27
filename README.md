@@ -4,9 +4,11 @@
 Welcome to my Hunter CS Portfolio!!!
 
 
+
 ## GitHub Website
 
 [Portfolio Website](https://bolandtech.github.io/nycscertweb/)
+
 
 
 
@@ -18,6 +20,7 @@ CSCI 70300 - Data Structures
          
 SEDC 71900 - Methods 1
 
+ 
  
  
 ## Resources
