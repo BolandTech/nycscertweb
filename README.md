@@ -22,10 +22,10 @@ SEDC 71900 - Methods 1
  
 ## Resources
 
-[Hunter Teacher Cert CS Ed](https://github.com/hunter-teacher-cert/cs-ed-cohort-3-summer-2022)
+[Hunter Teacher Cert CS Ed Repository](https://github.com/hunter-teacher-cert/cs-ed-cohort-3-summer-2022)
 
-[Programming Repo](https://github.com/hunter-teacher-cert/csci70900-summer2021)
+[Programming Repository](https://github.com/hunter-teacher-cert/csci70900-summer2021)
 
-[Data Structures Repo](https://github.com/hunter-teacher-cert/csci70300-summer2022)
+[Data Structures Repository](https://github.com/hunter-teacher-cert/csci70300-summer2022)
 
-[Methds 1 Repo](https://github.com/hunter-teacher-cert/sedc71900-summer-2022)
+[Methds 1 Repository](https://github.com/hunter-teacher-cert/sedc71900-summer-2022)
