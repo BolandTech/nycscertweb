@@ -7,7 +7,7 @@ Welcome to my Hunter CS Portfolio!!!
 
 ## GitHub Website
 
-[Portfolio Website](https://bolandtech.github.io/nycscertweb/)
+[BolandTech Website](https://bolandtech.github.io/nycscertweb/)
 
 
 
