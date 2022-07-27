@@ -44,6 +44,8 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 
 [GitHub Products](https://docs.github.com/en/get-started/learning-about-github/githubs-products)
 
+[Giub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 
 
 #### Repl.it
@@ -110,6 +112,15 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 [Glitch](https://glitch.com)
 
 [p5 Editor](https://editor.p5js.org/lboland/sketches/BYvtX6_U8)
+
+
+
+#### Java Cheatsheets
+
+[Java cheatsheet (Princeton)](https://introcs.cs.princeton.edu/java/11cheatsheet/)
+
+[Java cheatsheet (Codecademy)](https://www.codecademy.com/learn/learn-java/modules/learn-java-hello-world/cheatsheet)
+
 
 
 
