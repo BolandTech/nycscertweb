@@ -44,7 +44,19 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 
 [Markdown Reference](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+
+
+#### HTML
+
+[HTML Reference](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+
+[HTML Elements Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+
+
 #### Work Samples
 
 [Method Sample Work](https://hunter-teacher-cert.github.io/sedc71900-summer-2022/)
+
+
 
