@@ -38,6 +38,14 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 
 ## Helpful Resources
 
+#### GitHub
+
+[GitHub Site Set-up Reference](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+
+[GitHub Products](https://docs.github.com/en/get-started/learning-about-github/githubs-products)
+
+
+
 #### Markdown 
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
