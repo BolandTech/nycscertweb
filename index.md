@@ -10,6 +10,8 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 
   
    [Sample Work - Game of Life](https://github.com/hunter-teacher-cert/cohort-3-summer-work-BolandTech/blob/master/programming/3/ArraysDay2_GameOfLife/CgolFinal.java) 
+   
+   For more information about this course [click here](Programming.md)
     
 
 ### CSCI 70300 - Data Structures
@@ -20,6 +22,8 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 
   
    [Sample work - Al Practice](https://github.com/hunter-teacher-cert/cohort-3-summer-work-BolandTech/blob/master/ds/arraylists/AlPractice.java) 
+   
+<!--    For more information about this course [click here](Methods.md) -->
  
          
 ### SEDC 71900 - Methods 1
