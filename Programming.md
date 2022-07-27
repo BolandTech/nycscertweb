@@ -2,9 +2,7 @@
 
 ### Department Of Computer Science
 ### Hunter College, CUNY
-### Summer Semester 2021
-### Professor Genady Maryash
-### Office Hours: TBA And By Appointment
+### Summer Semester 2022
 
 
 # Course Description
