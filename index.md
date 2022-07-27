@@ -41,6 +41,7 @@ Hi y'all!!! Below is information about the CS courses I have taken so far, as we
 #### Markdown 
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 [Markdown Reference](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 #### Work Samples
