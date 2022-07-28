@@ -28,7 +28,7 @@ Hi y'all! Below is information about the CS courses I have taken so far, as well
          
 ### SEDC 71900 - Methods 1
 
-<img width="549" alt="Methods pic" src="https://user-images.githubusercontent.com/85142599/181366048-de13fbc3-706b-4895-9fa5-768196a53bff.png">
+<img width="549" alt="Methods pic" src="https://user-images.githubusercontent.com/85142599/181366192-3486da04-70af-41c0-97ae-4f1740fa56bf.png">
   
  [Sample work - Live Code Lesson](https://github.com/hunter-teacher-cert/cohort-3-summer-work-BolandTech/blob/master/methods/LessonPlans/02_livecode_java.js)
  
@@ -41,6 +41,8 @@ Hi y'all! Below is information about the CS courses I have taken so far, as well
 #### GitHub
 
 [GitHub Site Set-up Reference](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+
+[GitHub Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [GitHub Products](https://docs.github.com/en/get-started/learning-about-github/githubs-products)
 
@@ -128,6 +130,4 @@ Hi y'all! Below is information about the CS courses I have taken so far, as well
 #### Work Samples
 
 [Method Sample Work](https://hunter-teacher-cert.github.io/sedc71900-summer-2022/)
-
-
 
