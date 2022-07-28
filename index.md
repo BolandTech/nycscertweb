@@ -44,7 +44,7 @@ Hi y'all! Below is information about the CS courses I have taken so far, as well
 
 [GitHub Products](https://docs.github.com/en/get-started/learning-about-github/githubs-products)
 
-[Giub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+[GitHub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
