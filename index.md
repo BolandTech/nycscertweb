@@ -42,6 +42,8 @@ Hi y'all! Below is information about the CS courses I have taken so far, as well
 
 [GitHub Site Set-up Reference](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
+[GitHub Formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 [GitHub Products](https://docs.github.com/en/get-started/learning-about-github/githubs-products)
 
 [GitHub Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
