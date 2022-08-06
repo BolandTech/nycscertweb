@@ -38,7 +38,7 @@ Hi y'all! Below is information about the CS courses I have taken so far, as well
 
 ## Helpful Resources
 
-#### GitHub | #### Repl.it | #### HTML
+#### GitHub 
 
 [GitHub Site Set-up Reference](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 
